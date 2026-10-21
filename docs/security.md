@@ -1,0 +1,1 @@
+Passwords are scrypt-hashed, bearer tokens expire, and API roles/ownership are checked server-side. Demo credentials/key are local only. Set a strong secret, replace passwords, restrict CORS, use HTTPS and managed secrets before deployment. Model output is decision support, never an automatic employment decision.

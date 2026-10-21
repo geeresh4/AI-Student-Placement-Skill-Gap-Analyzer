@@ -1,0 +1,1 @@
+student_id: internal ID; program and graduation_year: cohort; cgpa: 0–10; backlogs: count; placed: recorded outcome only; prediction_probability: estimate, never actual outcome; skill_coverage: weighted job requirement score [0,1]; source labels synthetic rows.

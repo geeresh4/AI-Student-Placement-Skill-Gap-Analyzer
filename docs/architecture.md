@@ -1,0 +1,1 @@
+React/Vite → FastAPI → SQLAlchemy → SQLite by default (PostgreSQL via DATABASE_URL) → persisted scikit-learn pipeline. Shared database supports both role portals. Server enforces authorization and student ownership. Synthetic and actual outcome data remain distinct.

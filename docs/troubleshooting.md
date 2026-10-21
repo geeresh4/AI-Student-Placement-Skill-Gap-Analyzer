@@ -1,0 +1,1 @@
+Python 3.11+ and py launcher; Node 20+. Ports 8000 and 5173 must be free. PowerShell: Set-ExecutionPolicy -Scope Process Bypass. Missing model: run `python scripts/train_model.py --input data/synthetic/students.csv`. Missing schema: `python scripts/seed_database.py` or `alembic upgrade head`.

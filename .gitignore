@@ -1,0 +1,17 @@
+.venv/
+.deps/
+work/
+node_modules/
+__pycache__/
+*.py[cod]
+.env
+*.db
+*.joblib
+.pytest_cache/
+dist/
+*.tsbuildinfo
+*.zip
+data/exports/*
+!data/exports/.gitkeep
+data/processed/
+data/synthetic/*.csv

@@ -1,0 +1,1 @@
+Actual placement rate = positive known recorded outcomes / all known recorded outcomes in selected cohort; omit unknowns and show unknown count separately. Skill coverage = achieved weighted requirement points / total required points. Label demo model metrics synthetic.
